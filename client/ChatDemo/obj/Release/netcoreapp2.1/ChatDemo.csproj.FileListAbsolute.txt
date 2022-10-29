@@ -1,0 +1,10 @@
+E:\projects\Test_chat\client\ChatDemo\bin\Release\netcoreapp2.1\ChatDemo.deps.json
+E:\projects\Test_chat\client\ChatDemo\bin\Release\netcoreapp2.1\ChatDemo.runtimeconfig.json
+E:\projects\Test_chat\client\ChatDemo\bin\Release\netcoreapp2.1\ChatDemo.runtimeconfig.dev.json
+E:\projects\Test_chat\client\ChatDemo\bin\Release\netcoreapp2.1\ChatDemo.dll
+E:\projects\Test_chat\client\ChatDemo\bin\Release\netcoreapp2.1\ChatDemo.pdb
+E:\projects\Test_chat\client\ChatDemo\obj\Release\netcoreapp2.1\ChatDemo.csproj.CoreCompileInputs.cache
+E:\projects\Test_chat\client\ChatDemo\obj\Release\netcoreapp2.1\ChatDemo.AssemblyInfoInputs.cache
+E:\projects\Test_chat\client\ChatDemo\obj\Release\netcoreapp2.1\ChatDemo.AssemblyInfo.cs
+E:\projects\Test_chat\client\ChatDemo\obj\Release\netcoreapp2.1\ChatDemo.dll
+E:\projects\Test_chat\client\ChatDemo\obj\Release\netcoreapp2.1\ChatDemo.pdb
